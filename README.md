@@ -12,3 +12,5 @@ He creado una nueva rama llamada NoeliaPrieto y he creado el archivo README.md y
 Ahora lo estoy modificando en esa segunda rama para después hacer un merge y añadir la última captura de pantalla. 
 
 Por último subiré los cambio realizados en local al repositorio remoto. 
+
+<h3>Mi zona horaria es de dublín, Irlanda, te adjunto una captura para demostarlo</h3>
